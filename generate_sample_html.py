@@ -984,7 +984,7 @@ html += f'''  </ul>
   {completed_html}
 
   <h2 class="section-title">The Cast: Team Contributions</h2>
-  <p style="color:var(--text-muted);margin-bottom:8px;">Give a High 5 to your favorite team member</p>
+  <p style="color:var(--text-muted);margin-bottom:8px;">Give a High 5 to the team member who earned it this sprint</p>
   <div class="cast-fav-banner" id="castFavBanner"></div>
   <table class="data-table" id="castTable">
     <thead><tr><th>Contributor</th><th>Points</th><th>Sub-tasks</th><th>Stories Owned</th><th>Award</th><th>High 5</th></tr></thead>

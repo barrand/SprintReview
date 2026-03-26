@@ -52,7 +52,7 @@ SPEED_DEMON_GIFS = [
     "https://media.giphy.com/media/3oGRFKJ8Ea3hKkLRyE/giphy.gif",      # Quicksilver X-Men Apocalypse
     "https://media.giphy.com/media/eIm624c8nnNbiG0V3g/giphy.gif",      # Neo dodging bullets
     "https://media.giphy.com/media/IxpcUr98ER5ts58uPg/giphy.gif",      # Sonic running
-    "https://media.giphy.com/media/yXVO50FJIJMSQ/giphy.gif",           # Sonic classic
+    "https://media.giphy.com/media/77F1Ogb2A1fy0LESQO/giphy.gif",      # Fast & Furious Tokyo Drift
 ]
 
 WORKHORSE_GIFS = [
